@@ -17,8 +17,8 @@ In this project you will be completely responsible for creating and implementing
 A blog will have:
 
     {
-      title: "E-Sports" //max length should be 60 character
-      slug: "e-sports" //slug should be unique and lowercase
+      title: "The Era of E-Sports" //max length should be 60 characters
+      slug: "the-era-of-e-sports" //slug should be unique and lowercase
       summary: "A short description." // no more than 120 characters
       author: "Jim Bob" 
       body: "A bunch of stuff about E-Sports", 
